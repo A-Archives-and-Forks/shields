@@ -41,7 +41,7 @@
     "fast-xml-parser": "^4.3.2",
     "glob": "^10.3.10",
     "global-agent": "^3.0.0",
-    "got": "^13.0.0",
+    "got": "^14.0.0",
     "graphql": "16.8.1",
     "graphql-tag": "^2.12.6",
     "joi": "17.11.0",
@@ -144,8 +144,8 @@
     ]
   },
   "devDependencies": {
-    "@docusaurus/core": "^2.4.3",
-    "@easyops-cn/docusaurus-search-local": "^0.36.0",
+    "@docusaurus/core": "^3.4.0",
+    "@easyops-cn/docusaurus-search-local": "^0.44.0",
     "@mdx-js/react": "^1.6.21",
     "@typescript-eslint/parser": "^6.7.4",
     "c8": "^8.0.1",
@@ -161,7 +161,7 @@
     "cypress-wait-for-stable-dom": "^0.1.0",
     "danger": "^11.3.0",
     "deepmerge": "^4.3.1",
-    "docusaurus-preset-openapi": "0.6.4",
+    "docusaurus-preset-openapi": "0.7.5",
     "eslint": "8.50.0",
     "eslint-config-prettier": "^9.0.0",
     "eslint-config-standard": "17.1.0",
@@ -208,7 +208,7 @@
     "sinon": "^16.1.0",
     "sinon-chai": "^3.7.0",
     "snap-shot-it": "^7.9.10",
-    "start-server-and-test": "2.0.1",
+    "start-server-and-test": "2.0.4",
     "tsd": "^0.29.0",
     "url": "^0.11.3"
   },
